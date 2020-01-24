@@ -1,0 +1,574 @@
+{
+  "uri": "http://www.legislation.gov.uk/uksi/2015/369/contents/made",
+  "children": [
+    {
+      "uri": "http://www.legislation.gov.uk/uksi/2015/369/introduction/made",
+      "children": [
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/introduction/made#1452015%20c%2B722de461",
+          "cachedUri": null,
+          "transformedUri": "d8c24ff1b5c52a6d3441337153fd66b29f1e6df5_transform",
+          "title": "2015 No. 369",
+          "titleHtml": "<html><head></head><body><h1 class=\"LegNo\">2015 No. 369</h1></body></html>",
+          "effectiveDate": "1 April 2015",
+          "publishedDate": "23 February 2015",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/introduction/made#1b5%281%29%0D%0A126%2B606d127",
+          "children": [
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/introduction/made#1b5%281%29%0D%0A58%2B5a6eb8cc%401b5%281%29%0D%0A126%2B606d127",
+              "cachedUri": null,
+              "title": "(1)\r\nParagraph 26 was substituted by the Financial Services Act 2012, section 8(1), (3).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00001\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">1</span>)</div><p class=\"LegText\">Paragraph 26 was substituted by the Financial Services Act 2012, section 8(1), (3).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/introduction/made#1a5%282%29%0D%0Ae%2B2956cf0b%401b5%281%29%0D%0A126%2B606d127",
+              "cachedUri": null,
+              "title": "(2)\r\n2000 c.8.",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00002\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">2</span>)</div><p class=\"LegText\"><a class=\"LegCitation\" title=\"Go to item of legislation\" rel=\"cite\" href=\"/id/ukpga/2000/8\">2000 c.8</a>.\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/introduction/made#1a5%283%29%0D%0Af%2B9fd8168c%401b5%281%29%0D%0A126%2B606d127",
+              "cachedUri": null,
+              "title": "(3)\r\n2012 c.21.",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00003\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">3</span>)</div><p class=\"LegText\"><a class=\"LegCitation\" title=\"Go to item of legislation\" rel=\"cite\" href=\"/id/ukpga/2012/21\">2012 c.21</a>.\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/introduction/made#195%284%29%0D%0A55%2B61b8e1%401b5%281%29%0D%0A126%2B606d127",
+              "cachedUri": null,
+              "title": "(4)\r\nSection 22(1A) was inserted by the Financial Services Act 2012, section 7(1)(a).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00004\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">4</span>)</div><p class=\"LegText\">Section 22(1A) was inserted by the Financial Services Act 2012, section 7(1)(a).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/introduction/made#1b5%285%29%0D%0A54%2B29a0855e%401b5%281%29%0D%0A126%2B606d127",
+              "cachedUri": null,
+              "title": "(5)\r\nParagraph 25 was amended by the Financial Services Act 2012, section 8(1), (2).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00005\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">5</span>)</div><p class=\"LegText\">Paragraph 25 was amended by the Financial Services Act 2012, section 8(1), (2).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            }
+          ],
+          "cachedUri": null,
+          "title": "Footnote",
+          "titleHtml": "<html><head></head><body>Footnote</body></html>",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        }
+      ],
+      "cachedUri": "ae91733cc99af30f6ba5a3cd55fc66adac5ca6e6",
+      "title": "Introductory Text",
+      "titleHtml": "<html><head></head><body><p class=\"LegContentsItem LegClearFix\"><span class=\"LegDS LegContentsTitle\"><a href=\"/uksi/2015/369/introduction/made\">Introductory Text</a></span></p></body></html>",
+      "cachedDateTimeOffset": "2020-01-22T09:02:11.5643993+00:00",
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/1/made",
+      "cachedUri": "c5860d827808dd7faccb6fab44fccf6217c9e3da",
+      "transformedUri": "c5860d827808dd7faccb6fab44fccf6217c9e3da_transform",
+      "title": "1.Citation and commencement",
+      "titleHtml": "<html><head></head><body><p class=\"LegContentsItem LegClearFix\"><span class=\"LegDS LegContentsNo\"><a href=\"/uksi/2015/369/article/1/made\">1.</a></span><span class=\"LegDS LegContentsTitle\"><a href=\"/uksi/2015/369/article/1/made\">Citation and commencement</a></span></p></body></html>",
+      "cachedDateTimeOffset": "2020-01-22T09:02:11.6928161+00:00",
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/2/made",
+      "children": [
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/2/made#1b5%281%29%0D%0Aee%2Bd992c787",
+          "children": [
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/2/made#1b5%281%29%0D%0A92%2B30d90d4e%401b5%281%29%0D%0Aee%2Bd992c787",
+              "cachedUri": null,
+              "title": "(1)\r\nArticle 63O was inserted by the Financial Services and Markets Act 2000 (Regulated Activities (Amendment) Order 2013, SI 2013/655, arts 4, 5.",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00006\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">1</span>)</div><p class=\"LegText\">Article 63O was inserted by the Financial Services and Markets Act 2000 (Regulated Activities (Amendment) Order 2013, <a class=\"LegCitation\" title=\"Go to item of legislation\" rel=\"cite\" href=\"/id/uksi/2013/655\">SI 2013/655</a>, arts 4, 5.\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/2/made#1b5%282%29%0D%0A5a%2B29f1f710%401b5%281%29%0D%0Aee%2Bd992c787",
+              "cachedUri": null,
+              "title": "(2)\r\nS.I. 2001/544. The relevant amending instruments are S.I. 2009/1389 and S.I. 2013/655",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00007\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">2</span>)</div><p class=\"LegText\"><a class=\"LegCitation\" title=\"Go to item of legislation\" rel=\"cite\" href=\"/id/uksi/2001/544\">S.I. 2001/544</a>. The relevant amending instruments are <a class=\"LegCitation\" title=\"Go to item of legislation\" rel=\"cite\" href=\"/id/uksi/2009/1389\">S.I. 2009/1389</a> and <a class=\"LegCitation\" title=\"Go to item of legislation\" rel=\"cite\" href=\"/id/uksi/2013/655\">S.I. 2013/655</a>\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            }
+          ],
+          "cachedUri": null,
+          "title": "Footnote",
+          "titleHtml": "<html><head></head><body>Footnote</body></html>",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        }
+      ],
+      "cachedUri": "08a27aa39fdc85bc738151a383ccc395b6cbfcd3",
+      "transformedUri": "08a27aa39fdc85bc738151a383ccc395b6cbfcd3_transform",
+      "title": "2.Interpretation",
+      "titleHtml": "<html><head></head><body><p class=\"LegContentsItem LegClearFix\"><span class=\"LegDS LegContentsNo\"><a href=\"/uksi/2015/369/article/2/made\">2.</a></span><span class=\"LegDS LegContentsTitle\"><a href=\"/uksi/2015/369/article/2/made\">Interpretation</a></span></p></body></html>",
+      "cachedDateTimeOffset": "2020-01-22T09:02:11.7241937+00:00",
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/3/made",
+      "children": [
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/3/made#1b5%281%29%0D%0Acb%2B7ec359a0",
+          "children": [
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/3/made#1b5%281%29%0D%0A57%2B667704d3%401b5%281%29%0D%0Acb%2B7ec359a0",
+              "cachedUri": null,
+              "title": "(1)\r\nIt is proposed that ISDAFIX will be known as ICE Swap Rate from some time in 2015.",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00008\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">1</span>)</div><p class=\"LegText\">It is proposed that ISDAFIX will be known as ICE Swap Rate from some time in 2015.\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/3/made#1b5%282%29%0D%0A72%2B32600464%401b5%281%29%0D%0Acb%2B7ec359a0",
+              "cachedUri": null,
+              "title": "(2)\r\nIt is proposed that the London Gold Fixing benchmark will be known as LBMA Gold Price from some time in 2015.",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00009\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">2</span>)</div><p class=\"LegText\">It is proposed that the London Gold Fixing benchmark will be known as LBMA Gold Price from some time in 2015.\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            }
+          ],
+          "cachedUri": null,
+          "title": "Footnote",
+          "titleHtml": "<html><head></head><body>Footnote</body></html>",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        }
+      ],
+      "cachedUri": "6b8dd0cae39b0863cb7facfffb851a1752b5c10d",
+      "transformedUri": "6b8dd0cae39b0863cb7facfffb851a1752b5c10d_transform",
+      "title": "3.Amendment of the Regulated Activities Order",
+      "titleHtml": "<html><head></head><body><p class=\"LegContentsItem LegClearFix\"><span class=\"LegDS LegContentsNo\"><a href=\"/uksi/2015/369/article/3/made\">3.</a></span><span class=\"LegDS LegContentsTitle\"><a href=\"/uksi/2015/369/article/3/made\">Amendment of the Regulated Activities Order</a></span></p></body></html>",
+      "cachedDateTimeOffset": "2020-01-22T09:02:11.7614853+00:00",
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/4/made",
+      "children": [
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/4/made#1e54.%E2%80%94%281122%2Bc9399279",
+          "cachedUri": null,
+          "transformedUri": "99ff056655105ee374a20a2a1bbdf77266985a00_transform",
+          "title": "(1) Paragraph (2) applies to a person (“A”) who, on the last working day before 1st April 2015, was an authorised person whose Part 4A permission did not include either of the activities specified in article 63O of the Regulated Activities Order in relation to a specified benchmark and—",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/4/made#195%282%29%20Afe%2Bc43e30bf",
+          "cachedUri": null,
+          "transformedUri": "22363f5266a42e21352a382edd4ff0e58dedf740_transform",
+          "title": "(2) A is to be treated as having a Part 4A permission varied on 1st April 2015 to carry on the activity of providing information in relation to a relevant specified benchmark or the activity of administering a relevant specified benchmark, as applicable.",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/4/made#185%283%29%20A76%2Bf481d60",
+          "cachedUri": null,
+          "transformedUri": "b39104ad34790c06c1812354ee37de1d3d7673ba_transform",
+          "title": "(3) A Part 4A permission that is treated as having been varied under this article is to be treated as being varied by—",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/4/made#195%284%29%20F5a%2B9abc40f0",
+          "cachedUri": null,
+          "transformedUri": "959f3091a577f7a59143a83664b3ead2225b8548_transform",
+          "title": "(4) For the purposes of this article, the administrator of a benchmark is a person who is—",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        }
+      ],
+      "cachedUri": "8aae1e756a7dd9389566f0e8a9d49a2216bcf7da",
+      "title": "4.Transitional provisions",
+      "titleHtml": "<html><head></head><body><p class=\"LegContentsItem LegClearFix\"><span class=\"LegDS LegContentsNo\"><a href=\"/uksi/2015/369/article/4/made\">4.</a></span><span class=\"LegDS LegContentsTitle\"><a href=\"/uksi/2015/369/article/4/made\">Transitional provisions</a></span></p></body></html>",
+      "cachedDateTimeOffset": "2020-01-22T09:02:11.8060659+00:00",
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/5/made",
+      "children": [
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/5/made#1e55.%E2%80%94%28116d%2Bd22a6db9",
+          "cachedUri": null,
+          "transformedUri": "0856d8e926787799f07a5debc678f1eeaa314617_transform",
+          "title": "(1) Paragraph (2) applies to a person (“B”) who is not an authorised person and who on the last working day before 1st April 2015 was carrying on the activities of providing information in relation to or administering a benchmark that on 1st April 2015 would be the activities of providing information in relation to or administering a specified benchmark (“S”).",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/5/made#175%282%29%20B99%2Bd6cb3f",
+          "cachedUri": null,
+          "transformedUri": "b14e4ba5653ca144169be9e8a1a8148c6a472f4d_transform",
+          "title": "(2) B is to be treated as having a Part 4A permission to carry on the activity of providing information in relation to or administering S, as applicable.",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/5/made#195%283%29%20T76%2B95210897",
+          "cachedUri": null,
+          "transformedUri": "a78ff6546ffe56dea3b4497ee954862ef730b4db_transform",
+          "title": "(3) The Part 4A permission which B is to be treated as having is referred to in this Order as an “interim permission”.",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/5/made#195%284%29%20B35%2B6321e15e",
+          "cachedUri": null,
+          "transformedUri": "f7098d92b1120f99a5021ffc0af3f49adfebce69_transform",
+          "title": "(4) B’s interim permission lapses on the earliest of—",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/5/made#195%285%29%20A64%2Bfbe237d0",
+          "cachedUri": null,
+          "transformedUri": "31b9f67559b4a1beca7f7e1784ae19c6df5de7c3_transform",
+          "title": "(5) A notice of cancellation of permission under paragraph (4)(a) may only be given by the FCA when—",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/5/made#195%286%29%20A5b%2B7d1fc1c1",
+          "cachedUri": null,
+          "transformedUri": "28dcbdd5a1fa49bda19bdeef2ff75ec9aaed7599_transform",
+          "title": "(6) A notice of cancellation of permission given to B under paragraph (4)(a) must be given—",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/5/made#195%287%29%20F83%2B2a939aab",
+          "cachedUri": null,
+          "transformedUri": "3d571e8a0558c2326a52efb6bef1d1cfed396bd4_transform",
+          "title": "(7) For the purposes of paragraph (4)(a), section 55Z(3) of the Act (cancellation of Part 4A permission: procedure) does not apply.",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/5/made#1b5%281%29%0D%0Ac4%2B535382f2",
+          "children": [
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/5/made#1b5%281%29%0D%0A40%2B477df70d%401b5%281%29%0D%0Ac4%2B535382f2",
+              "cachedUri": null,
+              "title": "(1)\r\nInserted by the Financial Services Act 2012, section 11(2).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00010\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">1</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2012, section 11(2).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/5/made#1b5%282%29%0D%0A40%2Bb6a84869%401b5%281%29%0D%0Ac4%2B535382f2",
+              "cachedUri": null,
+              "title": "(2)\r\nInserted by the Financial Services Act 2012, section 11(2).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00011\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">2</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2012, section 11(2).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/5/made#1b5%283%29%0D%0A40%2Be61b22b5%401b5%281%29%0D%0Ac4%2B535382f2",
+              "cachedUri": null,
+              "title": "(3)\r\nInserted by the Financial Services Act 2012, section 11(2).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00012\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">3</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2012, section 11(2).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            }
+          ],
+          "cachedUri": null,
+          "title": "Footnote",
+          "titleHtml": "<html><head></head><body>Footnote</body></html>",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        }
+      ],
+      "cachedUri": "55d4cf70534b0c1a82a3e51faccf01def708f17d",
+      "title": "5.Interim permission",
+      "titleHtml": "<html><head></head><body><p class=\"LegContentsItem LegClearFix\"><span class=\"LegDS LegContentsNo\"><a href=\"/uksi/2015/369/article/5/made\">5.</a></span><span class=\"LegDS LegContentsTitle\"><a href=\"/uksi/2015/369/article/5/made\">Interim permission</a></span></p></body></html>",
+      "cachedDateTimeOffset": "2020-01-22T09:02:11.9399902+00:00",
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/6/made",
+      "children": [
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/6/made#1d56.%E2%80%94%281ed%2Bace164fa",
+          "cachedUri": null,
+          "transformedUri": "4c37ccfca2fe7c935f4fc61b508fe875ae0925c2_transform",
+          "title": "(1) The FCA may direct in writing that any relevant provision which would otherwise apply to a person by virtue of an interim permission is not to apply, or is to apply to that person as modified in the way specified in the direction.",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/6/made#1a5%282%29%20W105%2Bb192538a",
+          "cachedUri": null,
+          "transformedUri": "e14855cdce911ee85c7b6d4e718ec602b3f99f0d_transform",
+          "title": "(2) Where the FCA makes a rule, gives guidance or issues a statement or code which applies only to persons with an interim permission (or only to a class of such persons), the following sections of the Act do not apply to that rule, guidance, statement or code—",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/6/made#195%283%29%20Ffa%2B6a4ae13d",
+          "cachedUri": null,
+          "transformedUri": "7d63f7b83c7018df9318597af7b42761943a1226_transform",
+          "title": "(3) For the purpose of paragraph (1), a “relevant provision” is any provision made as a result of the exercise by the FCA of any of its legislative functions mentioned in paragraph 8(3) of Schedule 1ZA(4) to the Act (the financial conduct authority).",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/6/made#1c5%281%29%0D%0A26a%2Bf2791b85",
+          "children": [
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/6/made#1b5%281%29%0D%0Aa8%2B474a4bff%401c5%281%29%0D%0A26a%2Bf2791b85",
+              "cachedUri": null,
+              "title": "(1)\r\nInserted by the Financial Services Act 2010, section 11 and amended by the Financial Services Act 2012, Schedule 5, paragraphs 11(2)(a), (b), 11(3), 11(4)(a), (b).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00013\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">1</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2010, section 11 and amended by the Financial Services Act 2012, Schedule 5, paragraphs 11(2)(a), (b), 11(3), 11(4)(a), (b).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/6/made#1b5%282%29%0D%0A40%2Bfa9a0bee%401c5%281%29%0D%0A26a%2Bf2791b85",
+              "cachedUri": null,
+              "title": "(2)\r\nInserted by the Financial Services Act 2012, section 24(1).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00014\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">2</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2012, section 24(1).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/6/made#1b5%283%29%0D%0A40%2Baa296132%401c5%281%29%0D%0A26a%2Bf2791b85",
+              "cachedUri": null,
+              "title": "(3)\r\nInserted by the Financial Services Act 2012, section 24(1).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00015\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">3</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2012, section 24(1).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/6/made#1c5%284%29%0D%0A13c%2B82df0428%401c5%281%29%0D%0A26a%2Bf2791b85",
+              "cachedUri": null,
+              "title": "(4)\r\nInserted by the Financial Services Act 2012, section 6(2), Schedule 3 and amended by the Financial Services (Banking Reform) Act 2013 (c.33), section 35, Schedule 3, paragraph 16 and section 4(6); and the Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 and S.I. 2013/1388.",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00016\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">4</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2012, section 6(2), Schedule 3 and amended by the Financial Services (Banking Reform) Act <a class=\"LegCitation\" title=\"Go to item of legislation\" rel=\"cite\" href=\"/id/ukpga/2013/33\">2013 (c.33)</a>, section 35, Schedule 3, paragraph 16 and section 4(6); and the Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 and <a class=\"LegCitation\" title=\"Go to item of legislation\" rel=\"cite\" href=\"/id/uksi/2013/1388\">S.I. 2013/1388</a>.\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            }
+          ],
+          "cachedUri": null,
+          "title": "Footnote",
+          "titleHtml": "<html><head></head><body>Footnote</body></html>",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        }
+      ],
+      "cachedUri": "bf00a3b3b9938a70cfd6b57691f191441bdeab6d",
+      "title": "6.Application of the FCA’s rules etc. to persons with interim permission",
+      "titleHtml": "<html><head></head><body><p class=\"LegContentsItem LegClearFix\"><span class=\"LegDS LegContentsNo\"><a href=\"/uksi/2015/369/article/6/made\">6.</a></span><span class=\"LegDS LegContentsTitle\"><a href=\"/uksi/2015/369/article/6/made\">Application of the FCA’s rules <span lang=\"la\" xml:lang=\"la\">etc.</span> to persons with interim permission</a></span></p></body></html>",
+      "cachedDateTimeOffset": "2020-01-22T09:02:12.0735658+00:00",
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made",
+      "children": [
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made#1d57.%E2%80%94%28168%2B2193e94a",
+          "cachedUri": null,
+          "transformedUri": "57cbb037f369760ce58a50180796f734c515697d_transform",
+          "title": "(1) This article applies to every person with an interim permission under article 5(2) of this Order.",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made#195%282%29%20Acd%2B4f00d228",
+          "cachedUri": null,
+          "transformedUri": "c3d117d597749b82f37a3dea612397483fb8ec0c_transform",
+          "title": "(2) A person with an interim permission is to be treated as an authorised person for the purposes of the Act (and any provision made under the Act), unless otherwise expressly provided for by this article.",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made#195%283%29%20Fc5%2B2694012d",
+          "cachedUri": null,
+          "transformedUri": "00e042c7f7a129a1cd346e664335a2a4b126382f_transform",
+          "title": "(3) For the purpose of section 20(1) of the Act (authorised person acting without permission), a person’s interim permission is treated as having been given to that person under Part 4A of the Act.",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made#195%284%29%20Fff%2Ba96fcb89",
+          "cachedUri": null,
+          "transformedUri": "0971d861206532e2ba7bdd2a6c5bca19f056ad15_transform",
+          "title": "(4) For the purpose of section 55L(1)(2) of the Act (imposition of requirements by FCA), a person who obtains interim permission by virtue of this Order is treated as having applied to the FCA for a Part 4A permission or variation of a Part 4A permission.",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made#195%285%29%20F8a%2B736f0d27",
+          "cachedUri": null,
+          "transformedUri": "a2e57718ed0318189a9258121e35a15b0e1fa66a_transform",
+          "title": "(5) For the purpose of section 55L(2) of the Act, a person’s interim permission is treated as having been given to that person by the FCA.",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made#195%286%29%20A6d%2B85bac555",
+          "cachedUri": null,
+          "transformedUri": "86e93be2ef68c4c39f019294d96ce24b53a51de4_transform",
+          "title": "(6) A person’s interim permission is to be disregarded for the purposes of the following sections of the Act—",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made#1c5%281%29%0D%0A1e3%2Bbc0ef6f4",
+          "children": [
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made#1b5%281%29%0D%0A75%2B4925c238%401c5%281%29%0D%0A1e3%2Bbc0ef6f4",
+              "cachedUri": null,
+              "title": "(1)\r\nInserted by the Financial Services Act 2012, Schedule 9(2) paragraphs 2(2)(a), (b), (c), 2(3), 2(4), 2(5), 2(6).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00017\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">1</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2012, Schedule 9(2) paragraphs 2(2)(a), (b), (c), 2(3), 2(4), 2(5), 2(6).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made#1b5%282%29%0D%0A3f%2Bc10f2437%401c5%281%29%0D%0A1e3%2Bbc0ef6f4",
+              "cachedUri": null,
+              "title": "(2)\r\nInserted by the Financial Services Act 2012, section 11(2)",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00018\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">2</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2012, section 11(2)\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made#1b5%283%29%0D%0A65%2B17042fc3%401c5%281%29%0D%0A1e3%2Bbc0ef6f4",
+              "cachedUri": null,
+              "title": "(3)\r\nInserted by the Financial Services Act 2012, section 114(1), Schedule 18, Pt 1, paragraphs 1, 4.",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00019\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">3</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2012, section 114(1), Schedule 18, Pt 1, paragraphs 1, 4.\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made#1b5%284%29%0D%0A40%2B8e7230e0%401c5%281%29%0D%0A1e3%2Bbc0ef6f4",
+              "cachedUri": null,
+              "title": "(4)\r\nInserted by the Financial Services Act 2012, section 11(2).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00020\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">4</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2012, section 11(2).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made#1b5%285%29%0D%0A40%2Bdec15a3c%401c5%281%29%0D%0A1e3%2Bbc0ef6f4",
+              "cachedUri": null,
+              "title": "(5)\r\nInserted by the Financial Services Act 2012, section 11(2).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00021\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">5</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2012, section 11(2).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/7/made#1b5%286%29%0D%0A40%2B2f14e558%401c5%281%29%0D%0A1e3%2Bbc0ef6f4",
+              "cachedUri": null,
+              "title": "(6)\r\nInserted by the Financial Services Act 2012, section 11(2).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00022\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">6</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2012, section 11(2).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            }
+          ],
+          "cachedUri": null,
+          "title": "Footnote",
+          "titleHtml": "<html><head></head><body>Footnote</body></html>",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        }
+      ],
+      "cachedUri": "8c6bb54b0f7dc09b0a8d92c173f8dbf38f0ba22c",
+      "title": "7.Application of the Act to persons with interim permission",
+      "titleHtml": "<html><head></head><body><p class=\"LegContentsItem LegClearFix\"><span class=\"LegDS LegContentsNo\"><a href=\"/uksi/2015/369/article/7/made\">7.</a></span><span class=\"LegDS LegContentsTitle\"><a href=\"/uksi/2015/369/article/7/made\">Application of the Act to persons with interim permission</a></span></p></body></html>",
+      "cachedDateTimeOffset": "2020-01-22T09:02:12.2109315+00:00",
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/8/made",
+      "children": [
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/8/made#1e58.%E2%80%94%281173%2B27c70a8f",
+          "cachedUri": null,
+          "transformedUri": "0c0b0cddfb0bc496886a78d73984df676d578a17_transform",
+          "title": "(1) The FCA may exercise its power under section 55L(3) of the Act (imposition of requirements by FCA) in relation to a person who immediately before 1st April 2015 had a Part 4A permission to carry on any of the activities in article 63O of the Regulated Activities Order, if it appears to the FCA that it is necessary to ensure regulation of any specified benchmark.",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/8/made#195%282%29%20Wb4%2B622c39b1",
+          "cachedUri": null,
+          "transformedUri": "a1e40a50d005ae780d579818985af63bada49bfc_transform",
+          "title": "(2) Where the FCA exercises its power under section 55L(3) in accordance with paragraph (1), section 55Y(1) of the Act (exercise of own-initiative power: procedure) does not apply.",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        },
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/8/made#1b5%281%29%0D%0A40%2B477df70d",
+          "children": [
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/8/made#1b5%281%29%0D%0A40%2B477df70d%401b5%281%29%0D%0A40%2B477df70d",
+              "cachedUri": null,
+              "title": "(1)\r\nInserted by the Financial Services Act 2012, section 11(2).",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00023\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">1</span>)</div><p class=\"LegText\">Inserted by the Financial Services Act 2012, section 11(2).\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            }
+          ],
+          "cachedUri": null,
+          "title": "Footnote",
+          "titleHtml": "<html><head></head><body>Footnote</body></html>",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        }
+      ],
+      "cachedUri": "2cfbcdbd224aa55e805b3b47e81b1de5e56992b1",
+      "title": "8.Imposition of requirements by the FCA",
+      "titleHtml": "<html><head></head><body><p class=\"LegContentsItem LegClearFix\"><span class=\"LegDS LegContentsNo\"><a href=\"/uksi/2015/369/article/8/made\">8.</a></span><span class=\"LegDS LegContentsTitle\"><a href=\"/uksi/2015/369/article/8/made\">Imposition of requirements by the FCA</a></span></p></body></html>",
+      "cachedDateTimeOffset": "2020-01-22T09:02:12.3611666+00:00",
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/9/made",
+      "children": [
+        {
+          "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/9/made#1b5%281%29%0D%0Ae0%2B2095b734",
+          "children": [
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/9/made#1b5%281%29%0D%0A13%2B9998736a%401b5%281%29%0D%0Ae0%2B2095b734",
+              "cachedUri": null,
+              "title": "(1)\r\nS.I. 2013/637.",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00024\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">1</span>)</div><p class=\"LegText\"><a class=\"LegCitation\" title=\"Go to item of legislation\" rel=\"cite\" href=\"/id/uksi/2013/637\">S.I. 2013/637</a>.\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/9/made#1b5%282%29%0D%0A57%2B12da542c%401b5%281%29%0D%0Ae0%2B2095b734",
+              "cachedUri": null,
+              "title": "(2)\r\nIt is proposed that ISDAFIX will be known as ICE Swap Rate from some time in 2015.",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00025\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">2</span>)</div><p class=\"LegText\">It is proposed that ISDAFIX will be known as ICE Swap Rate from some time in 2015.\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            },
+            {
+              "uri": "http://www.legislation.gov.uk/uksi/2015/369/article/9/made#1b5%283%29%0D%0A72%2B8437d169%401b5%281%29%0D%0Ae0%2B2095b734",
+              "cachedUri": null,
+              "title": "(3)\r\nIt is proposed that the London Gold Fixing benchmark will be known as LBMA Gold Price from some time in 2015.",
+              "titleHtml": "<html><head></head><body><div class=\"LegClearFix LegFootnote\" id=\"f00026\"><div class=\"LegFootnoteNoContainer\">(<span class=\"LegFootnoteNo\">3</span>)</div><p class=\"LegText\">It is proposed that the London Gold Fixing benchmark will be known as LBMA Gold Price from some time in 2015.\n</p></div></body></html>",
+              "type": "Footnote",
+              "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+            }
+          ],
+          "cachedUri": null,
+          "title": "Footnote",
+          "titleHtml": "<html><head></head><body>Footnote</body></html>",
+          "cachedDateTimeOffset": "0001-01-01T00:00:00+00:00"
+        }
+      ],
+      "cachedUri": "100068b933c76cebcb3380eb54376681faf7cbb1",
+      "transformedUri": "100068b933c76cebcb3380eb54376681faf7cbb1_transform",
+      "title": "9.Amendments to the Financial Services 2012 (Misleading Statements and Impressions) Order 2013",
+      "titleHtml": "<html><head></head><body><p class=\"LegContentsItem LegClearFix\"><span class=\"LegDS LegContentsNo\"><a href=\"/uksi/2015/369/article/9/made\">9.</a></span><span class=\"LegDS LegContentsTitle\"><a href=\"/uksi/2015/369/article/9/made\">Amendments to the Financial Services 2012 (Misleading Statements and Impressions) Order 2013</a></span></p></body></html>",
+      "cachedDateTimeOffset": "2020-01-22T09:02:12.4179017+00:00",
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "uri": "http://www.legislation.gov.uk/uksi/2015/369/signature/made",
+      "cachedUri": "7891dcf512fdc91524b760d7f595768cee0d9c60",
+      "transformedUri": "7891dcf512fdc91524b760d7f595768cee0d9c60_transform",
+      "title": "Signature",
+      "titleHtml": "<html><head></head><body><p class=\"LegContentsItem LegClearFix\"><span class=\"LegDS LegContentsNo\"><a href=\"/uksi/2015/369/signature/made\">Signature</a></span></p></body></html>",
+      "cachedDateTimeOffset": "2020-01-22T09:02:12.4698751+00:00",
+      "contentType": "text/html;charset=utf-8"
+    },
+    {
+      "uri": "http://www.legislation.gov.uk/uksi/2015/369/note/made",
+      "cachedUri": "8be8ee19cea6c271fd43e153d8d0f08f6e2144d8",
+      "transformedUri": "8be8ee19cea6c271fd43e153d8d0f08f6e2144d8_transform",
+      "title": "Explanatory Note",
+      "titleHtml": "<html><head></head><body><p class=\"LegContentsItem LegClearFix\"><span class=\"LegDS LegContentsNo\"><a href=\"/uksi/2015/369/note/made\">Explanatory Note</a></span></p></body></html>",
+      "cachedDateTimeOffset": "2020-01-22T09:02:12.4868293+00:00",
+      "contentType": "text/html;charset=utf-8"
+    }
+  ],
+  "cachedUri": "909568f65f582280194ada2f39b3f8b7207064df",
+  "title": "\r\nThe Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2015",
+  "titleHtml": "<html><head></head><body><h1 class=\"pageTitle\">The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2015</h1></body></html>",
+  "cachedDateTimeOffset": "2020-01-22T09:02:10.6843313+00:00",
+  "contentType": "text/html;charset=utf-8"
+}
